@@ -1,12 +1,11 @@
 html {
-    scroll-behavior: smooth; /* Tetap dipertahankan untuk efek gulir layar yang mulus */
+    scroll-behavior: smooth; 
 }
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Efek menyala saat menu navigasi dilewati mouse */
 .nav-link {
     transition: 0.3s ease;
 }
@@ -14,7 +13,6 @@ body {
     color: #0e26de !important; 
 }
 
-/* Efek warna gelap saat tombol kirim pesan disentuh mouse */
 .tombol-kirim {
     transition: 0.3s ease;
 }
